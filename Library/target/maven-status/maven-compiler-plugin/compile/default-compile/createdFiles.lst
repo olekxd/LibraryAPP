@@ -1,0 +1,15 @@
+library\app\LibraryControl$Option.class
+library\utils\DataReader.class
+library\data\User.class
+library\data\Magazine.class
+library\app\LibraryControl.class
+library\app\LibraryApp.class
+library\utils\FileManager.class
+library\data\Library$AlphabeticalComparator.class
+library\data\Library$DateComparator.class
+library\utils\LibraryUtils.class
+library\data\Library.class
+library\data\LibraryUser.class
+library\app\LibraryControl$1.class
+library\data\Publication.class
+library\data\Book.class
